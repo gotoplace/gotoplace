@@ -1,6 +1,5 @@
 ### Hi there 👋
-
----
+***
 <!--
 **gotoplace/gotoplace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=welcome&fontSize=80&fontAlignY=40&desc=to%20my%20GitHub&descAlign=70&descAlignY=60)   
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&fontSize=80&fontAlignY=40&desc=to%20my%20GitHub&descAlign=70&descAlignY=60)
 ***
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gotoplace&show_icons=true&theme=radical)
